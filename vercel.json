@@ -1,5 +1,5 @@
 {
-  "rewrites": [
-    { "source": "/:match*", "destination": "https://forum.beyondstorage.io/:match*" }
+  "redirects": [
+    { "source": "/", "destination": "https://forum.beyondstorage.io" }
   ]
 }
