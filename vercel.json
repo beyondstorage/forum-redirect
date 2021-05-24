@@ -1,5 +1,6 @@
 {
   "redirects": [
+    { "source": "/", "destination": "https://forum.beyondstorage.io/" },
     { "source": "/:match*", "destination": "https://forum.beyondstorage.io/:match*" }
   ]
 }
